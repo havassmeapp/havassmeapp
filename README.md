@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to havassmeapp 🌱
 
-<!--
-**havassmeapp/havassmeapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At **havassmeapp**, we're dedicated to helping people improve their personal development and mental well-being. Our app offers a wide range of features like meditation techniques, mood tracking, personalized recommendations, and relaxing sounds to enhance your mindfulness journey.
 
-Here are some ideas to get you started:
+### Technologies We Use:
+- **Frontend:** React Native (Mobile) | Next.js (Web)
+- **Backend:** .NET Core | ASP.NET Core MVC
+- **Database:** PostgreSQL or MS SQL Server
+- **Infrastructure:** Nginx | IONOS Cloud
+- **Authentication:** JWT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Features:
+- Guided meditations and relaxing sounds 🎶
+- Daily activity and mood tracking 📊
+- Personalized content recommendations tailored to user preferences 🎯
+- Admin panel for user and content management 🛠️
+
+Join us in building a community focused on personal growth, mindfulness, and well-being!
